@@ -45,7 +45,7 @@ function vistaProductos({ products }) {
             <YAxis />
             <Tooltip />
             <Legend />
-            <Bar dataKey="cantidad" fill="#8884d8" />
+            <Bar dataKey="cantidad" fill="#FF1744" />
           </BarChart>
         </ResponsiveContainer>
       ) : (
